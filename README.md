@@ -24,10 +24,6 @@ Logs keystrokes to a file (`keylog.txt`).
 ⚠️ For **educational use only**, run on your own machine.  
 ➡️ Can be expanded with timestamps or sending logs securely.
 
-### 5. Packet Sniffer (`packet_sniffer.py`)
-Captures raw network packets (first 50 bytes). Requires **Linux/macOS + root**.  
-➡️ Extend it to parse TCP/UDP headers.
-
 ---
 
 ## 🔧 Setup
@@ -39,3 +35,4 @@ cd cybersecurity-projects
 
 # Install requirements
 pip install -r requirements.txt
+
