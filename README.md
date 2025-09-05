@@ -20,9 +20,7 @@ Implements one of the oldest encryption methods.
 ➡️ Good practice for text processing and cryptography basics.
 
 ### 4. Keylogger (`keylogger.py`)
-Logs keystrokes to a file (`keylog.txt`).  
-⚠️ For **educational use only**, run on your own machine.  
-➡️ Can be expanded with timestamps or sending logs securely.
+Logs keystrokes to a file (`keylog.txt`).
 
 ---
 
@@ -35,4 +33,5 @@ cd cybersecurity-projects
 
 # Install requirements
 pip install -r requirements.txt
+
 
