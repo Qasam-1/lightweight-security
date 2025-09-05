@@ -1,7 +1,6 @@
 # 🛡️ Cybersecurity Mini Projects
 
-A collection of beginner-friendly cybersecurity projects written in Python.  
-Good for learning, practicing, and showcasing on GitHub.
+A collection of beginner-friendly cybersecurity projects written in Python.
 
 ---
 
@@ -30,3 +29,4 @@ cd cybersecurity-projects
 
 # Install requirements
 pip install -r requirements.txt
+
