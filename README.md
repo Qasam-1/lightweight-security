@@ -25,11 +25,8 @@ Logs keystrokes to a file (`keylog.txt`).
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/cybersecurity-projects.git
+git clone https://github.com/Qasam-1/lightweight-security
 cd cybersecurity-projects
 
 # Install requirements
 pip install -r requirements.txt
-
-
-
